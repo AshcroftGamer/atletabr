@@ -1,0 +1,11 @@
+front: html, css, js, nodejs
+
+banco: mongodb ou mysql
+
+back: springboot, java
+
+versionamento: git
+
+web: heroku
+
+móvel: flutter
